@@ -16,7 +16,7 @@ This project includes two pages; page(1) being the landing page of the notes and
 
 
 
-## What I learded
+## What I have learned
 The bootcamp students including myself were taught this week how to use post, get, and delete to get an HTTP request to work. We contuined to 
 pratice configure an Express.js app to handle GET and POST requests and implemented client-side POST requests to submit form data to a server.
 We also tested our API's by (first downloading) using Insomnia and make client-side server requests without having to use a browser.
